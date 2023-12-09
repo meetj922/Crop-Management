@@ -7,8 +7,8 @@
                 <div class="offset-sm-2 col-5 ">
                     <h5>Our Address</h5>
                     <address>
-		              Vishwothama Nagar, Bantakal<br>
-		              Udupi - 574 115, Karnataka<br>		              
+                  Dr. D. Y. Patil Vidyapeeth, Sector 7,<br>
+		              Nerul, Navi Mumbai, Maharashtra - 400706<br>		              
 		              <div class="btn-group text-center" role="group">
                     <a role="button" class="btn btn-primary" href="tel:+919448936339"><i class="fa fa-phone"></i> Call</a>
                     <a role="button" class="btn btn-info" href="tel:+918233294006"> <i class="fa fa-fax"></i> Fax</a>
@@ -19,19 +19,13 @@
                 <div class="col-12 col-md-3 align-self-center">
             <div class="social-network  text-center">
 				           
-       <button target="_blank" href="/" rel="nofollow" class="btn btn-icon-only btn-linkedin rounded-circle" data-toggle="tooltip" data-original-title="Mail Us">
+       <button target="_blank" href="https://www.linkedin.com/in/meet-jain-749a65181" rel="nofollow" class="btn btn-icon-only btn-linkedin rounded-circle" data-toggle="tooltip" data-original-title="Mail Us">
             <span class="btn-inner--icon"><i class="fas fa-envelope"></i></span>
           </button>
-          <button target="_blank" href="/" rel="nofollow" class="btn btn-icon-only btn-twitter rounded-circle" data-toggle="tooltip" data-original-title="Follow us">
+          <button target="_blank" href="https://twitter.com/meetj922" rel="nofollow" class="btn btn-icon-only btn-twitter rounded-circle" data-toggle="tooltip" data-original-title="Follow us">
             <span class="btn-inner--icon"><i class="fab fa-twitter"></i></span>
           </button>
-          <button target="_blank" href="/" rel="nofollow" class="btn-icon-only rounded-circle btn btn-facebook" data-toggle="tooltip" data-original-title="Like us">
-            <span class="btn-inner--icon"><i class="fab fa-facebook"></i></span>
-          </button>
-          <button target="_blank" href="/" rel="nofollow" class="btn btn-icon-only btn-instagram rounded-circle" data-toggle="tooltip" data-original-title="Follow us">
-            <span class="btn-inner--icon"><i class="fab fa-instagram "></i></span>
-          </button>
-          <button target="_blank" href="/" rel="nofollow" class="btn btn-icon-only btn-github rounded-circle" data-toggle="tooltip" data-original-title="Star on Github">
+          <button target="_blank" href="https://github.com/meetj922" rel="nofollow" class="btn btn-icon-only btn-github rounded-circle" data-toggle="tooltip" data-original-title="Star on Github">
             <span class="btn-inner--icon"><i class="fab fa-github"></i></span>
           </button>
              
