@@ -99,8 +99,5 @@ The Crop Management System dataset includes the following features:
 - Yield Prediction: Input `State_Name`, `District_Name`, `Crop_Year`, `Season`, `Crop`, `Area`, `Production` to get predicted yields for that crop and location.
 
 ## Contributors
-- AB Shetty
-- ChatGPT 3.5 Turbo
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+- Meet Jain
+- ChatGPT 3.5
